@@ -6,7 +6,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true"/></a>&nbsp 
 </p>
-![angelbaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbaek&langs_count=8)](https://github.com/angelbaek/github-readme-stats)
 
 ## 📚 My Tech
 <div>
