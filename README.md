@@ -7,8 +7,10 @@
 </div>
 
 <div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbaek&layout=compact)](https://github.com/angelbaek/github-readme-stats)
+  
 </div>
 
 ## 📚 My Tech
