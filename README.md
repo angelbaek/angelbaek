@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi%20I'm%20SeungHo&fontSize=90)
   
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white">
 </div>
 
-</div>
+
 
 <!--
 **angelbaek/angelbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
