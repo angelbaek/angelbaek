@@ -1,5 +1,4 @@
-### Hi 👋
-### im backend developer Baek Seung Ho
+# Hi 👋 im backend developer Baek Seung Ho
 
 <!--
 **angelbaek/angelbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
