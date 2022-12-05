@@ -6,7 +6,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true"/></a>&nbsp 
 </p>
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 닉네임&show_icons=true&theme=스타일)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true&theme=dark)
 
 ## 📚 My Tech
 <div>
