@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
 
+## 자주 사용하는 언어
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbaek&layout=compact)](https://github.com/angelbaek/github-readme-stats)
 
 <!--
