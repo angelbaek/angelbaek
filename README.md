@@ -2,6 +2,9 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi%20I'm%20SeungHo&fontSize=90)
+  
+  ## GitHub status
+  
 <div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangwoo1201&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false"/></a>
 </div>
