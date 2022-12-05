@@ -6,7 +6,6 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true"/></a>&nbsp 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbaek&langs_count=8)](https://github.com/angelbaek/github-readme-stats)
 
 ## 📚 My Tech
 <div>
