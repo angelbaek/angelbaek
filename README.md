@@ -1,7 +1,8 @@
 <div align="center">
 
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi%20I'm%20SeungHo&fontSize=90)
+  
+</div>
   
   ## GitHub status
   
@@ -34,7 +35,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
 
-</div>
+
 
 <!--
 **angelbaek/angelbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
