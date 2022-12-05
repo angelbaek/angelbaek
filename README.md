@@ -5,6 +5,7 @@
   
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=angelbaek&show_icons=true"/></a>&nbsp 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbaek&layout=compact)](https://github.com/angelbaek/github-readme-stats)
 </p>
 
 ## 📚 My Tech
@@ -23,8 +24,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbaek&layout=compact)](https://github.com/angelbaek/github-readme-stats)
 
 <!--
 **angelbaek/angelbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
